@@ -1,3 +1,3 @@
 # PowershellDecoding
 
-This repository contains scripts and other tools for deobfuscating encoded powershell scripts into readable formats
+This repository contains scripts,tools, and tips for deobfuscating encoded powershell scripts into readable formats
